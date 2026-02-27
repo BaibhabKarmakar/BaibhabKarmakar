@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BaibhabKarmakar
 - 👀 I’m interested in ...coding and exploring
-- 🌱 I’m currently learning ...Full stack web development
+- 🌱 I’m currently learning ... Data Science
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me ... email me: baibhabkarmakar29@gmail.com  
