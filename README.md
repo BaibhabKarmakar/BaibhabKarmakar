@@ -1,5 +1,5 @@
 ## ABOUT ME : 
-Student at University Of Calcutta 2022 - 26 | Coder | Data Scientist | Trying to be better than yesterday . 
+Student at University Of Calcutta 2022 - 26 | Aspiring Coder | Data Scientist | Trying to be better than yesterday . 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/karmakarbaibhab/)
 [![Twitter](https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white)](https://x.com/bk290704)
