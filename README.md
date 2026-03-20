@@ -25,6 +25,7 @@ Student at University Of Calcutta 2022 - 26 | Coder | Data Scientist | Trying to
 
 ### 🗄️ Database : 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
+## Github Streak : 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BaibhabKarmakar&theme=radical)
 ## Top Languages : 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BaibhabKarmakar&layout=compact&theme=radical)
