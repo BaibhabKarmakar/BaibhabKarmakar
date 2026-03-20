@@ -32,4 +32,6 @@ Student at University Of Calcutta 2022 - 26 | Aspiring Coder | Data Scientist | 
 ## Top Languages : 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BaibhabKarmakar&layout=compact&theme=radical)
 
-Actually This README.md file is inspired by my friend swarnotaj003 . Go and check his profile also https://github.com/swarnotaj003
+## 🙏 Credits
+
+Special thanks to [@swarnotaj003](https://github.com/swarnotaj003) for the inspiration behind this GitHub profile README.
